@@ -1,0 +1,13 @@
+C:\Workspace\[TheOnePercents]\TheOnePercents.Domain\bin\Release\TheOnePercents.Domain.dll
+C:\Workspace\[TheOnePercents]\TheOnePercents.Domain\bin\Release\TheOnePercents.Domain.pdb
+C:\Workspace\[TheOnePercents]\TheOnePercents.Domain\bin\Release\EntityFramework.dll
+C:\Workspace\[TheOnePercents]\TheOnePercents.Domain\bin\Release\SendGridMail.dll
+C:\Workspace\[TheOnePercents]\TheOnePercents.Domain\bin\Release\System.Web.Mvc.dll
+C:\Workspace\[TheOnePercents]\TheOnePercents.Domain\bin\Release\TheOnePercents.Model.dll
+C:\Workspace\[TheOnePercents]\TheOnePercents.Domain\bin\Release\TheOnePercents.Repository.dll
+C:\Workspace\[TheOnePercents]\TheOnePercents.Domain\bin\Release\TheOnePercents.Model.pdb
+C:\Workspace\[TheOnePercents]\TheOnePercents.Domain\bin\Release\TheOnePercents.Repository.pdb
+C:\Workspace\[TheOnePercents]\TheOnePercents.Domain\bin\Release\EntityFramework.xml
+C:\Workspace\[TheOnePercents]\TheOnePercents.Domain\obj\Release\TheOnePercents.Domain.csprojResolveAssemblyReference.cache
+C:\Workspace\[TheOnePercents]\TheOnePercents.Domain\obj\Release\TheOnePercents.Domain.dll
+C:\Workspace\[TheOnePercents]\TheOnePercents.Domain\obj\Release\TheOnePercents.Domain.pdb

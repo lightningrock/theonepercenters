@@ -1,0 +1,193 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="theonepercentersModel" Alias="Self" p1:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:p1="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="theonepercentersEntities1" p1:LazyLoadingEnabled="true">
+    <EntitySet Name="Companies" EntityType="theonepercentersModel.Company" />
+    <EntitySet Name="Competitions" EntityType="theonepercentersModel.Competition" />
+    <EntitySet Name="Contacts" EntityType="theonepercentersModel.Contact" />
+    <EntitySet Name="Memberships" EntityType="theonepercentersModel.Membership" />
+    <EntitySet Name="PrincipalUsers" EntityType="theonepercentersModel.PrincipalUser" />
+    <EntitySet Name="Settings" EntityType="theonepercentersModel.Setting" />
+    <EntitySet Name="UserCompetitions" EntityType="theonepercentersModel.UserCompetition" />
+    <AssociationSet Name="FK_Competitions_0" Association="theonepercentersModel.FK_Competitions_0">
+      <End Role="Companies" EntitySet="Companies" />
+      <End Role="Competitions" EntitySet="Competitions" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Memberships_0" Association="theonepercentersModel.FK_Memberships_0">
+      <End Role="Companies" EntitySet="Companies" />
+      <End Role="Memberships" EntitySet="Memberships" />
+    </AssociationSet>
+    <EntitySet Name="Tasks" EntityType="theonepercentersModel.Task" />
+    <EntitySet Name="UserTasks" EntityType="theonepercentersModel.UserTask" />
+  </EntityContainer>
+  <EntityType Name="Company">
+    <Key>
+      <PropertyRef Name="CompanyID" />
+    </Key>
+    <Property Name="CompanyID" Type="Guid" Nullable="false" />
+    <Property Name="CompanyName" Type="String" Nullable="false" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="SettingID" Type="Guid" />
+    <Property Name="Active" Type="Boolean" />
+    <Property Name="CreateDate" Type="DateTime" Precision="7" />
+    <Property Name="CreateUser" Type="String" MaxLength="128" Unicode="true" FixedLength="false" />
+    <Property Name="UpdateDate" Type="DateTime" Precision="7" />
+    <Property Name="UpdateUser" Type="String" MaxLength="128" Unicode="true" FixedLength="false" />
+    <NavigationProperty Name="Competitions" Relationship="theonepercentersModel.FK_Competitions_0" FromRole="Companies" ToRole="Competitions" />
+    <NavigationProperty Name="Memberships" Relationship="theonepercentersModel.FK_Memberships_0" FromRole="Companies" ToRole="Memberships" />
+  </EntityType>
+  <EntityType Name="Competition">
+    <Key>
+      <PropertyRef Name="CompetitionID" />
+    </Key>
+    <Property Name="CompetitionID" Type="Guid" Nullable="false" />
+    <Property Name="CompanyID" Type="Guid" Nullable="false" />
+    <Property Name="CompetitionName" Type="String" Nullable="false" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="CreateDate" Type="DateTime" Precision="7" />
+    <Property Name="CreateUser" Type="String" MaxLength="128" Unicode="true" FixedLength="false" />
+    <Property Name="UpdateDate" Type="DateTime" Precision="7" />
+    <Property Name="UpdateUser" Type="String" MaxLength="128" Unicode="true" FixedLength="false" />
+    <NavigationProperty Name="Company" Relationship="theonepercentersModel.FK_Competitions_0" FromRole="Competitions" ToRole="Companies" />
+  </EntityType>
+  <EntityType Name="Contact">
+    <Key>
+      <PropertyRef Name="ContactID" />
+    </Key>
+    <Property Name="ContactID" Type="Guid" Nullable="false" />
+    <Property Name="CompanyID" Type="Guid" Nullable="false" />
+    <Property Name="FirstName" Type="String" Nullable="false" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="LastName" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="CreateDate" Type="DateTime" Precision="7" />
+    <Property Name="CreateUser" Type="String" MaxLength="128" Unicode="true" FixedLength="false" />
+    <Property Name="UpdateDate" Type="DateTime" Precision="7" />
+    <Property Name="UpdateUser" Type="String" MaxLength="128" Unicode="true" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="Membership">
+    <Key>
+      <PropertyRef Name="MembershipID" />
+    </Key>
+    <Property Name="MembershipID" Type="Guid" Nullable="false" />
+    <Property Name="PrincipalUserID" Type="Guid" Nullable="false" />
+    <Property Name="CompanyID" Type="Guid" Nullable="false" />
+    <Property Name="Password" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="PasswordFormat" Type="Int32" Nullable="false" />
+    <Property Name="PasswordSalt" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="PasswordSetIdentifier" Type="Guid" Nullable="false" />
+    <Property Name="MobilePin" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="PhoneNumber" Type="String" MaxLength="25" Unicode="true" FixedLength="false" />
+    <Property Name="Email" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="LoweredEmail" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="PasswordQuestion" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="PasswordAnswer" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="IsApproved" Type="Boolean" Nullable="false" />
+    <Property Name="IsLockedOut" Type="Boolean" Nullable="false" />
+    <Property Name="IsOnHold" Type="Boolean" />
+    <Property Name="LastLoginDate" Type="DateTime" Precision="7" />
+    <Property Name="LastPasswordChangedDate" Type="DateTime" Precision="7" />
+    <Property Name="LastLockoutDate" Type="DateTime" Precision="7" />
+    <Property Name="FailedPasswordAttemptCount" Type="Int32" />
+    <Property Name="FailedPasswordAttemptWindowStart" Type="DateTime" Precision="7" />
+    <Property Name="FailedPasswordAnswerAttemptCount" Type="Int32" />
+    <Property Name="FailedPasswordAnswerAttemptWindowStart" Type="DateTime" Precision="7" />
+    <Property Name="Comment" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="CreateDate" Type="DateTime" Precision="7" />
+    <Property Name="CreateUser" Type="String" MaxLength="128" Unicode="true" FixedLength="false" />
+    <Property Name="UpdateDate" Type="DateTime" Precision="7" />
+    <Property Name="UpdateUser" Type="String" MaxLength="128" Unicode="true" FixedLength="false" />
+    <NavigationProperty Name="Company" Relationship="theonepercentersModel.FK_Memberships_0" FromRole="Memberships" ToRole="Companies" />
+  </EntityType>
+  <EntityType Name="PrincipalUser">
+    <Key>
+      <PropertyRef Name="PrincipalUserID" />
+    </Key>
+    <Property Name="PrincipalUserID" Type="Guid" Nullable="false" />
+    <Property Name="CompanyID" Type="Guid" Nullable="false" />
+    <Property Name="ContactID" Type="Guid" />
+    <Property Name="Active" Type="Boolean" />
+    <Property Name="UserName" Type="String" Nullable="false" MaxLength="256" Unicode="true" FixedLength="false" />
+    <Property Name="LoweredUserName" Type="String" Nullable="false" MaxLength="256" Unicode="true" FixedLength="false" />
+    <Property Name="CreateDate" Type="DateTime" Precision="7" />
+    <Property Name="CreateUser" Type="String" MaxLength="128" Unicode="true" FixedLength="false" />
+    <Property Name="UpdateDate" Type="DateTime" Precision="7" />
+    <Property Name="UpdateUser" Type="String" MaxLength="128" Unicode="true" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="Setting">
+    <Key>
+      <PropertyRef Name="SettingID" />
+    </Key>
+    <Property Name="SettingID" Type="Guid" Nullable="false" />
+    <Property Name="RegionalSettingCode" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="TimeZoneCode" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="CompanyEmail" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="CreateDate" Type="DateTime" Precision="7" />
+    <Property Name="CreateUser" Type="String" MaxLength="128" Unicode="true" FixedLength="false" />
+    <Property Name="UpdateDate" Type="DateTime" Precision="7" />
+    <Property Name="UpdateUser" Type="String" MaxLength="128" Unicode="true" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="UserCompetition">
+    <Key>
+      <PropertyRef Name="UserCompetitionID" />
+    </Key>
+    <Property Name="UserCompetitionID" Type="Guid" Nullable="false" />
+    <Property Name="PrincipalUserID" Type="Guid" Nullable="false" />
+    <Property Name="CompanyID" Type="Guid" Nullable="false" />
+    <Property Name="CompetitionID" Type="Guid" Nullable="false" />
+    <Property Name="CreateDate" Type="DateTime" Precision="7" />
+    <Property Name="CreateUser" Type="String" MaxLength="128" Unicode="true" FixedLength="false" />
+    <Property Name="UpdateDate" Type="DateTime" Precision="7" />
+    <Property Name="UpdateUser" Type="String" MaxLength="128" Unicode="true" FixedLength="false" />
+  </EntityType>
+  <Association Name="FK_Competitions_0">
+    <End Role="Companies" Type="theonepercentersModel.Company" Multiplicity="1" />
+    <End Role="Competitions" Type="theonepercentersModel.Competition" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Companies">
+        <PropertyRef Name="CompanyID" />
+      </Principal>
+      <Dependent Role="Competitions">
+        <PropertyRef Name="CompanyID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Memberships_0">
+    <End Role="Companies" Type="theonepercentersModel.Company" Multiplicity="1" />
+    <End Role="Memberships" Type="theonepercentersModel.Membership" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Companies">
+        <PropertyRef Name="CompanyID" />
+      </Principal>
+      <Dependent Role="Memberships">
+        <PropertyRef Name="CompanyID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityType Name="Task">
+    <Key>
+      <PropertyRef Name="TaskID" />
+    </Key>
+    <Property Type="Guid" Name="TaskID" Nullable="false" />
+    <Property Type="Guid" Name="CompanyID" Nullable="false" />
+    <Property Type="Guid" Name="CompetitionID" Nullable="false" />
+    <Property Type="String" Name="TaskName" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="TaskDescription" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Type="Int32" Name="TaskPoints" />
+    <Property Type="Boolean" Name="Active" />
+    <Property Type="String" Name="CreateUser" MaxLength="128" FixedLength="false" Unicode="true" />
+    <Property Type="DateTime" Name="UpdateDate" Precision="7" />
+    <Property Type="String" Name="UpdateUser" MaxLength="128" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="UserTask">
+    <Key>
+      <PropertyRef Name="UserTaskID" />
+    </Key>
+    <Property Type="Guid" Name="UserTaskID" Nullable="false" />
+    <Property Type="Guid" Name="TaskID" Nullable="false" />
+    <Property Type="Guid" Name="UserID" Nullable="false" />
+    <Property Type="Guid" Name="CompetitionID" Nullable="false" />
+    <Property Type="Boolean" Name="TaskCompleted" Nullable="false" />
+    <Property Type="DateTime" Name="TaskDate" Nullable="false" Precision="7" />
+    <Property Type="DateTime" Name="TaskDateCompleted" Nullable="false" Precision="7" />
+    <Property Type="DateTime" Name="CreateDate" Precision="7" />
+    <Property Type="String" Name="CreateUser" MaxLength="128" FixedLength="false" Unicode="true" />
+    <Property Type="DateTime" Name="UpdateDate" Precision="7" />
+    <Property Type="String" Name="UpdateUser" MaxLength="128" FixedLength="false" Unicode="true" />
+  </EntityType>
+</Schema>

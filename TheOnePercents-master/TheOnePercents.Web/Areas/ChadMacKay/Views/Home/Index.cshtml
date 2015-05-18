@@ -1,0 +1,22 @@
+﻿@model TheOnePercents.Web.Areas.ChadMacKay.Models.CompayViewModel
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>THIS IS CHAD MACKAY</h2>
+
+<table>
+    <tr>
+        <th>
+            Login
+        </th>
+    </tr>
+    <tr>
+        <td>
+            @Html.ActionLink("Login", "Login", "Account", new { companyID = Model.CompanyID,  area = "ChadMacKay" }, null)
+        </td>
+    </tr>
+</table>
+
+

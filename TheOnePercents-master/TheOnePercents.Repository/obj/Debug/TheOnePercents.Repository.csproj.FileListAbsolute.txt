@@ -1,0 +1,41 @@
+C:\Workspaces\[Project-The-One-Percents]\TheOnePercents.Repository\TheOnePercents.Repository\bin\Debug\TheOnePercents.Repository.dll.config
+C:\Workspaces\[Project-The-One-Percents]\TheOnePercents.Repository\TheOnePercents.Repository\bin\Debug\TheOnePercents.Repository.dll
+C:\Workspaces\[Project-The-One-Percents]\TheOnePercents.Repository\TheOnePercents.Repository\bin\Debug\TheOnePercents.Repository.pdb
+C:\Workspaces\[Project-The-One-Percents]\TheOnePercents.Repository\TheOnePercents.Repository\bin\Debug\EntityFramework.dll
+C:\Workspaces\[Project-The-One-Percents]\TheOnePercents.Repository\TheOnePercents.Repository\bin\Debug\EntityFramework.xml
+C:\Workspaces\[Project-The-One-Percents]\TheOnePercents.Repository\TheOnePercents.Repository\obj\Debug\TheOnePercents.Repository.dll
+C:\Workspaces\[Project-The-One-Percents]\TheOnePercents.Repository\TheOnePercents.Repository\obj\Debug\TheOnePercents.Repository.pdb
+C:\Workspace\[TheOnePercents]\TheOnePercents.Repository\bin\Debug\TheOnePercents.Repository.dll.config
+C:\Workspace\[TheOnePercents]\TheOnePercents.Repository\bin\Debug\TheOnePercents.Repository.dll
+C:\Workspace\[TheOnePercents]\TheOnePercents.Repository\bin\Debug\TheOnePercents.Repository.pdb
+C:\Workspace\[TheOnePercents]\TheOnePercents.Repository\bin\Debug\EntityFramework.dll
+C:\Workspace\[TheOnePercents]\TheOnePercents.Repository\bin\Debug\EntityFramework.xml
+C:\Workspace\[TheOnePercents]\TheOnePercents.Repository\obj\Debug\TheOnePercents.Repository.csprojResolveAssemblyReference.cache
+C:\Workspace\[TheOnePercents]\TheOnePercents.Repository\obj\Debug\TheOnePercents.Repository.dll
+C:\Workspace\[TheOnePercents]\TheOnePercents.Repository\obj\Debug\TheOnePercents.Repository.pdb
+C:\Workspaces\[The-One-Percents]\TheOnePercents.Repository\obj\Debug\TheOnePercents.Repository.csprojResolveAssemblyReference.cache
+C:\Workspaces\[The-One-Percents]\TheOnePercents.Repository\bin\Debug\TheOnePercents.Repository.dll.config
+C:\Workspaces\[The-One-Percents]\TheOnePercents.Repository\bin\Debug\TheOnePercents.Repository.dll
+C:\Workspaces\[The-One-Percents]\TheOnePercents.Repository\bin\Debug\TheOnePercents.Repository.pdb
+C:\Workspaces\[The-One-Percents]\TheOnePercents.Repository\bin\Debug\EntityFramework.BulkInsert.dll
+C:\Workspaces\[The-One-Percents]\TheOnePercents.Repository\bin\Debug\EntityFramework.dll
+C:\Workspaces\[The-One-Percents]\TheOnePercents.Repository\bin\Debug\TheOnePercents.Model.dll
+C:\Workspaces\[The-One-Percents]\TheOnePercents.Repository\bin\Debug\TheOnePercents.Model.pdb
+C:\Workspaces\[The-One-Percents]\TheOnePercents.Repository\bin\Debug\EntityFramework.xml
+C:\Workspaces\[The-One-Percents]\TheOnePercents.Repository\bin\Debug\EntityFramework.BulkInsert.pdb
+C:\Workspaces\[The-One-Percents]\TheOnePercents.Repository\obj\Debug\TheOnePercents.Repository.dll
+C:\Workspaces\[The-One-Percents]\TheOnePercents.Repository\obj\Debug\TheOnePercents.Repository.pdb
+C:\Workspace\[TheOnePercents]\TheOnePercents.Repository\bin\Debug\EntityFramework.BulkInsert.dll
+C:\Workspace\[TheOnePercents]\TheOnePercents.Repository\bin\Debug\TheOnePercents.Model.dll
+C:\Workspace\[TheOnePercents]\TheOnePercents.Repository\bin\Debug\TheOnePercents.Model.pdb
+C:\Workspace\[TheOnePercents]\TheOnePercents.Repository\bin\Debug\EntityFramework.BulkInsert.pdb
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Repository\bin\Debug\TheOnePercents.Repository.dll.config
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Repository\bin\Debug\TheOnePercents.Repository.dll
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Repository\bin\Debug\TheOnePercents.Repository.pdb
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Repository\bin\Debug\EntityFramework.dll
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Repository\bin\Debug\TheOnePercents.Model.dll
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Repository\bin\Debug\TheOnePercents.Model.pdb
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Repository\bin\Debug\EntityFramework.xml
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Repository\obj\Debug\TheOnePercents.Repository.csprojResolveAssemblyReference.cache
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Repository\obj\Debug\TheOnePercents.Repository.dll
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Repository\obj\Debug\TheOnePercents.Repository.pdb

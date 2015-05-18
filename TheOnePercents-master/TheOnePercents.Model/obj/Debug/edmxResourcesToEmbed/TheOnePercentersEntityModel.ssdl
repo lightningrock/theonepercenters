@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="TheOnePercentsModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2008" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Competition">
+    <Key>
+      <PropertyRef Name="CompetitionID" />
+    </Key>
+    <Property Name="CompetitionID" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="EntityID" Type="uniqueidentifier" />
+    <Property Name="CompetitionName" Type="nvarchar" MaxLength="50" />
+    <Property Name="CompetitionDescription" Type="nvarchar(max)" />
+    <Property Name="CreateDate" Type="datetime2" Precision="7" />
+    <Property Name="CreateUser" Type="nvarchar" MaxLength="50" />
+    <Property Name="UpdateDate" Type="datetime2" Precision="7" />
+    <Property Name="UpdateUser" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="Entity">
+    <Key>
+      <PropertyRef Name="EntityID" />
+    </Key>
+    <Property Name="EntityID" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="EntityName" Type="nvarchar" MaxLength="128" />
+    <Property Name="CreateDate" Type="datetime2" Precision="7" />
+    <Property Name="CreateUser" Type="nvarchar" MaxLength="50" />
+    <Property Name="UpdateDate" Type="datetime2" Precision="7" />
+    <Property Name="UpdateUser" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <Association Name="FK_Competition_Entity">
+    <End Role="Entity" Type="Self.Entity" Multiplicity="0..1" />
+    <End Role="Competition" Type="Self.Competition" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Entity">
+        <PropertyRef Name="EntityID" />
+      </Principal>
+      <Dependent Role="Competition">
+        <PropertyRef Name="EntityID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="TheOnePercentsModelStoreContainer">
+    <EntitySet Name="Competition" EntityType="Self.Competition" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Entity" EntityType="Self.Entity" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_Competition_Entity" Association="Self.FK_Competition_Entity">
+      <End Role="Entity" EntitySet="Entity" />
+      <End Role="Competition" EntitySet="Competition" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

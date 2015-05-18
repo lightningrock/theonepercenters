@@ -1,0 +1,71 @@
+C:\Workspace\[TheOnePercents]\TheOnePercents.Infrastructure\bin\Debug\TheOnePercents.Infrastructure.dll.config
+C:\Workspace\[TheOnePercents]\TheOnePercents.Infrastructure\bin\Debug\TheOnePercents.Infrastructure.dll
+C:\Workspace\[TheOnePercents]\TheOnePercents.Infrastructure\bin\Debug\TheOnePercents.Infrastructure.pdb
+C:\Workspace\[TheOnePercents]\TheOnePercents.Infrastructure\bin\Debug\EntityFramework.dll
+C:\Workspace\[TheOnePercents]\TheOnePercents.Infrastructure\bin\Debug\Ninject.dll
+C:\Workspace\[TheOnePercents]\TheOnePercents.Infrastructure\bin\Debug\Ninject.Web.Common.dll
+C:\Workspace\[TheOnePercents]\TheOnePercents.Infrastructure\bin\Debug\TheOnePercents.Model.dll
+C:\Workspace\[TheOnePercents]\TheOnePercents.Infrastructure\bin\Debug\TheOnePercents.Repository.dll
+C:\Workspace\[TheOnePercents]\TheOnePercents.Infrastructure\bin\Debug\TheOnePercents.Model.pdb
+C:\Workspace\[TheOnePercents]\TheOnePercents.Infrastructure\bin\Debug\TheOnePercents.Repository.pdb
+C:\Workspace\[TheOnePercents]\TheOnePercents.Infrastructure\bin\Debug\EntityFramework.xml
+C:\Workspace\[TheOnePercents]\TheOnePercents.Infrastructure\bin\Debug\Ninject.xml
+C:\Workspace\[TheOnePercents]\TheOnePercents.Infrastructure\bin\Debug\Ninject.Web.Common.xml
+C:\Workspace\[TheOnePercents]\TheOnePercents.Infrastructure\obj\Debug\TheOnePercents.Infrastructure.csprojResolveAssemblyReference.cache
+C:\Workspace\[TheOnePercents]\TheOnePercents.Infrastructure\obj\Debug\TheOnePercents.Infrastructure.dll
+C:\Workspace\[TheOnePercents]\TheOnePercents.Infrastructure\obj\Debug\TheOnePercents.Infrastructure.pdb
+C:\Workspaces\[The-One-Percents]\TheOnePercents.Infrastructure\obj\Debug\TheOnePercents.Infrastructure.csprojResolveAssemblyReference.cache
+C:\Workspaces\[The-One-Percents]\TheOnePercents.Infrastructure\bin\Debug\TheOnePercents.Infrastructure.dll.config
+C:\Workspaces\[The-One-Percents]\TheOnePercents.Infrastructure\bin\Debug\TheOnePercents.Infrastructure.dll
+C:\Workspaces\[The-One-Percents]\TheOnePercents.Infrastructure\bin\Debug\TheOnePercents.Infrastructure.pdb
+C:\Workspaces\[The-One-Percents]\TheOnePercents.Infrastructure\bin\Debug\EntityFramework.dll
+C:\Workspaces\[The-One-Percents]\TheOnePercents.Infrastructure\bin\Debug\Ninject.dll
+C:\Workspaces\[The-One-Percents]\TheOnePercents.Infrastructure\bin\Debug\Ninject.Web.Common.dll
+C:\Workspaces\[The-One-Percents]\TheOnePercents.Infrastructure\bin\Debug\TheOnePercents.Domain.dll
+C:\Workspaces\[The-One-Percents]\TheOnePercents.Infrastructure\bin\Debug\TheOnePercents.Model.dll
+C:\Workspaces\[The-One-Percents]\TheOnePercents.Infrastructure\bin\Debug\TheOnePercents.Repository.dll
+C:\Workspaces\[The-One-Percents]\TheOnePercents.Infrastructure\bin\Debug\SendGridMail.dll
+C:\Workspaces\[The-One-Percents]\TheOnePercents.Infrastructure\bin\Debug\TheOnePercents.Domain.pdb
+C:\Workspaces\[The-One-Percents]\TheOnePercents.Infrastructure\bin\Debug\TheOnePercents.Model.pdb
+C:\Workspaces\[The-One-Percents]\TheOnePercents.Infrastructure\bin\Debug\TheOnePercents.Repository.pdb
+C:\Workspaces\[The-One-Percents]\TheOnePercents.Infrastructure\bin\Debug\EntityFramework.xml
+C:\Workspaces\[The-One-Percents]\TheOnePercents.Infrastructure\bin\Debug\Ninject.xml
+C:\Workspaces\[The-One-Percents]\TheOnePercents.Infrastructure\bin\Debug\Ninject.Web.Common.xml
+C:\Workspaces\[The-One-Percents]\TheOnePercents.Infrastructure\obj\Debug\TheOnePercents.Infrastructure.dll
+C:\Workspaces\[The-One-Percents]\TheOnePercents.Infrastructure\obj\Debug\TheOnePercents.Infrastructure.pdb
+C:\Workspace\[TheOnePercents]\TheOnePercents.Infrastructure\bin\Debug\TheOnePercents.Domain.dll
+C:\Workspace\[TheOnePercents]\TheOnePercents.Infrastructure\bin\Debug\SendGridMail.dll
+C:\Workspace\[TheOnePercents]\TheOnePercents.Infrastructure\bin\Debug\TheOnePercents.Domain.pdb
+C:\Workspaces\[The-One-Percents]\TheOnePercents.Infrastructure\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Workspaces\[The-One-Percents]\TheOnePercents.Infrastructure\bin\Debug\Ninject.Web.Mvc.dll
+C:\Workspaces\[The-One-Percents]\TheOnePercents.Infrastructure\bin\Debug\WebActivatorEx.dll
+C:\Workspaces\[The-One-Percents]\TheOnePercents.Infrastructure\bin\Debug\Ninject.Web.Mvc.xml
+C:\Workspace\[TheOnePercents]\TheOnePercents.Infrastructure\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Workspace\[TheOnePercents]\TheOnePercents.Infrastructure\bin\Debug\Ninject.Web.Mvc.dll
+C:\Workspace\[TheOnePercents]\TheOnePercents.Infrastructure\bin\Debug\WebActivatorEx.dll
+C:\Workspace\[TheOnePercents]\TheOnePercents.Infrastructure\bin\Debug\System.Web.Mvc.dll
+C:\Workspace\[TheOnePercents]\TheOnePercents.Infrastructure\bin\Debug\Ninject.Web.Mvc.xml
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Infrastructure\bin\Debug\TheOnePercents.Infrastructure.dll.config
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Infrastructure\bin\Debug\TheOnePercents.Infrastructure.dll
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Infrastructure\bin\Debug\TheOnePercents.Infrastructure.pdb
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Infrastructure\bin\Debug\EntityFramework.dll
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Infrastructure\bin\Debug\Microsoft.Web.Infrastructure.dll
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Infrastructure\bin\Debug\Ninject.dll
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Infrastructure\bin\Debug\Ninject.Web.Common.dll
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Infrastructure\bin\Debug\Ninject.Web.Mvc.dll
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Infrastructure\bin\Debug\TheOnePercents.Domain.dll
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Infrastructure\bin\Debug\TheOnePercents.Model.dll
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Infrastructure\bin\Debug\TheOnePercents.Repository.dll
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Infrastructure\bin\Debug\WebActivatorEx.dll
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Infrastructure\bin\Debug\SendGridMail.dll
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Infrastructure\bin\Debug\System.Web.Mvc.dll
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Infrastructure\bin\Debug\TheOnePercents.Domain.pdb
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Infrastructure\bin\Debug\TheOnePercents.Model.pdb
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Infrastructure\bin\Debug\TheOnePercents.Repository.pdb
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Infrastructure\bin\Debug\EntityFramework.xml
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Infrastructure\bin\Debug\Ninject.xml
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Infrastructure\bin\Debug\Ninject.Web.Common.xml
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Infrastructure\bin\Debug\Ninject.Web.Mvc.xml
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Infrastructure\obj\Debug\TheOnePercents.Infrastructure.csprojResolveAssemblyReference.cache
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Infrastructure\obj\Debug\TheOnePercents.Infrastructure.dll
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Infrastructure\obj\Debug\TheOnePercents.Infrastructure.pdb

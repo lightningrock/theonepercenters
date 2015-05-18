@@ -1,0 +1,65 @@
+C:\Workspace\[TheOnePercents]\TheOnePercents.Test\bin\Debug\TheOnePercents.Test.dll.config
+C:\Workspace\[TheOnePercents]\TheOnePercents.Test\bin\Debug\TheOnePercents.Test.dll
+C:\Workspace\[TheOnePercents]\TheOnePercents.Test\bin\Debug\TheOnePercents.Test.pdb
+C:\Workspace\[TheOnePercents]\TheOnePercents.Test\bin\Debug\EntityFramework.dll
+C:\Workspace\[TheOnePercents]\TheOnePercents.Test\bin\Debug\Ninject.dll
+C:\Workspace\[TheOnePercents]\TheOnePercents.Test\bin\Debug\TheOnePercents.Infrastructure.dll
+C:\Workspace\[TheOnePercents]\TheOnePercents.Test\bin\Debug\TheOnePercents.Model.dll
+C:\Workspace\[TheOnePercents]\TheOnePercents.Test\bin\Debug\TheOnePercents.Repository.dll
+C:\Workspace\[TheOnePercents]\TheOnePercents.Test\bin\Debug\xunit.dll
+C:\Workspace\[TheOnePercents]\TheOnePercents.Test\bin\Debug\TheOnePercents.Infrastructure.pdb
+C:\Workspace\[TheOnePercents]\TheOnePercents.Test\bin\Debug\TheOnePercents.Model.pdb
+C:\Workspace\[TheOnePercents]\TheOnePercents.Test\bin\Debug\TheOnePercents.Repository.pdb
+C:\Workspace\[TheOnePercents]\TheOnePercents.Test\bin\Debug\EntityFramework.xml
+C:\Workspace\[TheOnePercents]\TheOnePercents.Test\bin\Debug\Ninject.xml
+C:\Workspace\[TheOnePercents]\TheOnePercents.Test\bin\Debug\xunit.xml
+C:\Workspace\[TheOnePercents]\TheOnePercents.Test\obj\Debug\TheOnePercents.Test.csprojResolveAssemblyReference.cache
+C:\Workspace\[TheOnePercents]\TheOnePercents.Test\obj\Debug\TheOnePercents.Test.dll
+C:\Workspace\[TheOnePercents]\TheOnePercents.Test\obj\Debug\TheOnePercents.Test.pdb
+C:\Workspaces\[The-One-Percents]\TheOnePercents.Test\obj\Debug\TheOnePercents.Test.csprojResolveAssemblyReference.cache
+C:\Workspaces\[The-One-Percents]\TheOnePercents.Test\bin\Debug\TheOnePercents.Test.dll.config
+C:\Workspaces\[The-One-Percents]\TheOnePercents.Test\bin\Debug\TheOnePercents.Test.dll
+C:\Workspaces\[The-One-Percents]\TheOnePercents.Test\bin\Debug\TheOnePercents.Test.pdb
+C:\Workspaces\[The-One-Percents]\TheOnePercents.Test\bin\Debug\EntityFramework.dll
+C:\Workspaces\[The-One-Percents]\TheOnePercents.Test\bin\Debug\Ninject.dll
+C:\Workspaces\[The-One-Percents]\TheOnePercents.Test\bin\Debug\TheOnePercents.Domain.dll
+C:\Workspaces\[The-One-Percents]\TheOnePercents.Test\bin\Debug\TheOnePercents.Infrastructure.dll
+C:\Workspaces\[The-One-Percents]\TheOnePercents.Test\bin\Debug\TheOnePercents.Model.dll
+C:\Workspaces\[The-One-Percents]\TheOnePercents.Test\bin\Debug\TheOnePercents.Repository.dll
+C:\Workspaces\[The-One-Percents]\TheOnePercents.Test\bin\Debug\xunit.dll
+C:\Workspaces\[The-One-Percents]\TheOnePercents.Test\bin\Debug\SendGridMail.dll
+C:\Workspaces\[The-One-Percents]\TheOnePercents.Test\bin\Debug\TheOnePercents.Domain.pdb
+C:\Workspaces\[The-One-Percents]\TheOnePercents.Test\bin\Debug\TheOnePercents.Infrastructure.pdb
+C:\Workspaces\[The-One-Percents]\TheOnePercents.Test\bin\Debug\TheOnePercents.Model.pdb
+C:\Workspaces\[The-One-Percents]\TheOnePercents.Test\bin\Debug\TheOnePercents.Repository.pdb
+C:\Workspaces\[The-One-Percents]\TheOnePercents.Test\bin\Debug\EntityFramework.xml
+C:\Workspaces\[The-One-Percents]\TheOnePercents.Test\bin\Debug\Ninject.xml
+C:\Workspaces\[The-One-Percents]\TheOnePercents.Test\bin\Debug\xunit.xml
+C:\Workspaces\[The-One-Percents]\TheOnePercents.Test\obj\Debug\TheOnePercents.Test.dll
+C:\Workspaces\[The-One-Percents]\TheOnePercents.Test\obj\Debug\TheOnePercents.Test.pdb
+C:\Workspace\[TheOnePercents]\TheOnePercents.Test\bin\Debug\TheOnePercents.Domain.dll
+C:\Workspace\[TheOnePercents]\TheOnePercents.Test\bin\Debug\SendGridMail.dll
+C:\Workspace\[TheOnePercents]\TheOnePercents.Test\bin\Debug\TheOnePercents.Domain.pdb
+C:\Workspace\[TheOnePercents]\TheOnePercents.Test\bin\Debug\System.Web.Mvc.dll
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Test\bin\Debug\TheOnePercents.Test.dll.config
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Test\bin\Debug\TheOnePercents.Test.dll
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Test\bin\Debug\TheOnePercents.Test.pdb
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Test\bin\Debug\EntityFramework.dll
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Test\bin\Debug\TheOnePercents.Domain.dll
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Test\bin\Debug\TheOnePercents.Infrastructure.dll
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Test\bin\Debug\TheOnePercents.Model.dll
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Test\bin\Debug\TheOnePercents.Repository.dll
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Test\bin\Debug\xunit.dll
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Test\bin\Debug\SendGridMail.dll
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Test\bin\Debug\System.Web.Mvc.dll
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Test\bin\Debug\Ninject.dll
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Test\bin\Debug\TheOnePercents.Domain.pdb
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Test\bin\Debug\TheOnePercents.Infrastructure.pdb
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Test\bin\Debug\TheOnePercents.Model.pdb
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Test\bin\Debug\TheOnePercents.Repository.pdb
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Test\bin\Debug\EntityFramework.xml
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Test\bin\Debug\xunit.xml
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Test\bin\Debug\Ninject.xml
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Test\obj\Debug\TheOnePercents.Test.csprojResolveAssemblyReference.cache
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Test\obj\Debug\TheOnePercents.Test.dll
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Test\obj\Debug\TheOnePercents.Test.pdb

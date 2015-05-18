@@ -1,0 +1,189 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="theonepercentersModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityContainer Name="theonepercentersModelStoreContainer">
+    <EntitySet Name="Companies" EntityType="theonepercentersModel.Store.Companies" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Competitions" EntityType="theonepercentersModel.Store.Competitions" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Contacts" EntityType="theonepercentersModel.Store.Contacts" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Memberships" EntityType="theonepercentersModel.Store.Memberships" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="PrincipalUsers" EntityType="theonepercentersModel.Store.PrincipalUsers" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Settings" EntityType="theonepercentersModel.Store.Settings" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Tasks" EntityType="theonepercentersModel.Store.Tasks" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="UserCompetitions" EntityType="theonepercentersModel.Store.UserCompetitions" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="UserTasks" EntityType="theonepercentersModel.Store.UserTasks" store:Type="Tables" Schema="dbo" />
+    <AssociationSet Name="FK_Competitions_0" Association="theonepercentersModel.Store.FK_Competitions_0">
+      <End Role="Companies" EntitySet="Companies" />
+      <End Role="Competitions" EntitySet="Competitions" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Memberships_0" Association="theonepercentersModel.Store.FK_Memberships_0">
+      <End Role="Companies" EntitySet="Companies" />
+      <End Role="Memberships" EntitySet="Memberships" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Companies">
+    <Key>
+      <PropertyRef Name="CompanyID" />
+    </Key>
+    <Property Name="CompanyID" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="CompanyName" Type="nvarchar" Nullable="false" MaxLength="50" />
+    <Property Name="SettingID" Type="uniqueidentifier" />
+    <Property Name="Active" Type="bit" />
+    <Property Name="CreateDate" Type="datetime2" />
+    <Property Name="CreateUser" Type="nvarchar" MaxLength="128" />
+    <Property Name="UpdateDate" Type="datetime2" />
+    <Property Name="UpdateUser" Type="nvarchar" MaxLength="128" />
+  </EntityType>
+  <EntityType Name="Competitions">
+    <Key>
+      <PropertyRef Name="CompetitionID" />
+    </Key>
+    <Property Name="CompetitionID" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="CompanyID" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="CompetitionName" Type="nvarchar" Nullable="false" MaxLength="50" />
+    <Property Name="CreateDate" Type="datetime2" />
+    <Property Name="CreateUser" Type="nvarchar" MaxLength="128" />
+    <Property Name="UpdateDate" Type="datetime2" />
+    <Property Name="UpdateUser" Type="nvarchar" MaxLength="128" />
+  </EntityType>
+  <EntityType Name="Contacts">
+    <Key>
+      <PropertyRef Name="ContactID" />
+    </Key>
+    <Property Name="ContactID" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="CompanyID" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="FirstName" Type="nvarchar" Nullable="false" MaxLength="50" />
+    <Property Name="LastName" Type="nvarchar" MaxLength="50" />
+    <Property Name="CreateDate" Type="datetime2" />
+    <Property Name="CreateUser" Type="nvarchar" MaxLength="128" />
+    <Property Name="UpdateDate" Type="datetime2" />
+    <Property Name="UpdateUser" Type="nvarchar" MaxLength="128" />
+  </EntityType>
+  <EntityType Name="Memberships">
+    <Key>
+      <PropertyRef Name="MembershipID" />
+    </Key>
+    <Property Name="MembershipID" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="PrincipalUserID" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="CompanyID" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="Password" Type="nvarchar(max)" />
+    <Property Name="PasswordFormat" Type="int" Nullable="false" />
+    <Property Name="PasswordSalt" Type="nvarchar(max)" />
+    <Property Name="PasswordSetIdentifier" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="MobilePin" Type="nvarchar(max)" />
+    <Property Name="PhoneNumber" Type="nvarchar" MaxLength="25" />
+    <Property Name="Email" Type="nvarchar(max)" />
+    <Property Name="LoweredEmail" Type="nvarchar(max)" />
+    <Property Name="PasswordQuestion" Type="nvarchar(max)" />
+    <Property Name="PasswordAnswer" Type="nvarchar(max)" />
+    <Property Name="IsApproved" Type="bit" Nullable="false" />
+    <Property Name="IsLockedOut" Type="bit" Nullable="false" />
+    <Property Name="IsOnHold" Type="bit" />
+    <Property Name="LastLoginDate" Type="datetime2" />
+    <Property Name="LastPasswordChangedDate" Type="datetime2" />
+    <Property Name="LastLockoutDate" Type="datetime2" />
+    <Property Name="FailedPasswordAttemptCount" Type="int" />
+    <Property Name="FailedPasswordAttemptWindowStart" Type="datetime2" />
+    <Property Name="FailedPasswordAnswerAttemptCount" Type="int" />
+    <Property Name="FailedPasswordAnswerAttemptWindowStart" Type="datetime2" />
+    <Property Name="Comment" Type="nvarchar(max)" />
+    <Property Name="CreateDate" Type="datetime2" />
+    <Property Name="CreateUser" Type="nvarchar" MaxLength="128" />
+    <Property Name="UpdateDate" Type="datetime2" />
+    <Property Name="UpdateUser" Type="nvarchar" MaxLength="128" />
+  </EntityType>
+  <EntityType Name="PrincipalUsers">
+    <Key>
+      <PropertyRef Name="PrincipalUserID" />
+    </Key>
+    <Property Name="PrincipalUserID" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="CompanyID" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="ContactID" Type="uniqueidentifier" />
+    <Property Name="Active" Type="bit" />
+    <Property Name="UserName" Type="nvarchar" Nullable="false" MaxLength="256" />
+    <Property Name="LoweredUserName" Type="nvarchar" Nullable="false" MaxLength="256" />
+    <Property Name="CreateDate" Type="datetime2" />
+    <Property Name="CreateUser" Type="nvarchar" MaxLength="128" />
+    <Property Name="UpdateDate" Type="datetime2" />
+    <Property Name="UpdateUser" Type="nvarchar" MaxLength="128" />
+  </EntityType>
+  <EntityType Name="Settings">
+    <Key>
+      <PropertyRef Name="SettingID" />
+    </Key>
+    <Property Name="SettingID" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="RegionalSettingCode" Type="nvarchar" MaxLength="50" />
+    <Property Name="TimeZoneCode" Type="nvarchar" MaxLength="50" />
+    <Property Name="CompanyEmail" Type="nvarchar" MaxLength="50" />
+    <Property Name="CreateDate" Type="datetime2" />
+    <Property Name="CreateUser" Type="nvarchar" MaxLength="128" />
+    <Property Name="UpdateDate" Type="datetime2" />
+    <Property Name="UpdateUser" Type="nvarchar" MaxLength="128" />
+  </EntityType>
+  <EntityType Name="Tasks">
+    <Key>
+      <PropertyRef Name="TaskID" />
+    </Key>
+    <Property Name="TaskID" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="CompanyID" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="CompetitionID" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="TaskName" Type="nvarchar" MaxLength="50" />
+    <Property Name="TaskDescription" Type="nvarchar(max)" />
+    <Property Name="TaskPoints" Type="int" />
+    <Property Name="Active" Type="bit" />
+    <Property Name="CreateUser" Type="nvarchar" MaxLength="128" />
+    <Property Name="UpdateDate" Type="datetime2" />
+    <Property Name="UpdateUser" Type="nvarchar" MaxLength="128" />
+  </EntityType>
+  <EntityType Name="UserCompetitions">
+    <Key>
+      <PropertyRef Name="UserCompetitionID" />
+    </Key>
+    <Property Name="UserCompetitionID" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="PrincipalUserID" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="CompanyID" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="CompetitionID" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="CreateDate" Type="datetime2" />
+    <Property Name="CreateUser" Type="nvarchar" MaxLength="128" />
+    <Property Name="UpdateDate" Type="datetime2" />
+    <Property Name="UpdateUser" Type="nvarchar" MaxLength="128" />
+  </EntityType>
+  <EntityType Name="UserTasks">
+    <Key>
+      <PropertyRef Name="UserTaskID" />
+    </Key>
+    <Property Name="UserTaskID" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="TaskID" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="UserID" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="CompetitionID" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="TaskCompleted" Type="bit" Nullable="false" />
+    <Property Name="TaskDate" Type="datetime2" Nullable="false" />
+    <Property Name="TaskDateCompleted" Type="datetime2" Nullable="false" />
+    <Property Name="CreateDate" Type="datetime2" />
+    <Property Name="CreateUser" Type="nvarchar" MaxLength="128" />
+    <Property Name="UpdateDate" Type="datetime2" />
+    <Property Name="UpdateUser" Type="nvarchar" MaxLength="128" />
+  </EntityType>
+  <Association Name="FK_Competitions_0">
+    <End Role="Companies" Type="theonepercentersModel.Store.Companies" Multiplicity="1" />
+    <End Role="Competitions" Type="theonepercentersModel.Store.Competitions" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Companies">
+        <PropertyRef Name="CompanyID" />
+      </Principal>
+      <Dependent Role="Competitions">
+        <PropertyRef Name="CompanyID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Memberships_0">
+    <End Role="Companies" Type="theonepercentersModel.Store.Companies" Multiplicity="1" />
+    <End Role="Memberships" Type="theonepercentersModel.Store.Memberships" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Companies">
+        <PropertyRef Name="CompanyID" />
+      </Principal>
+      <Dependent Role="Memberships">
+        <PropertyRef Name="CompanyID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

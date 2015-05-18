@@ -1,0 +1,278 @@
+C:\Workspaces\[Project-The-One-Percents]\TheOnePercents.Web\TheOnePercents.Web\obj\Debug\TheOnePercents.Web.csprojResolveAssemblyReference.cache
+C:\Workspaces\[Project-The-One-Percents]\TheOnePercents.Web\TheOnePercents.Web\bin\TheOnePercents.Web.dll.config
+C:\Workspaces\[Project-The-One-Percents]\TheOnePercents.Web\TheOnePercents.Web\bin\TheOnePercents.Web.dll
+C:\Workspaces\[Project-The-One-Percents]\TheOnePercents.Web\TheOnePercents.Web\bin\TheOnePercents.Web.pdb
+C:\Workspaces\[Project-The-One-Percents]\TheOnePercents.Web\TheOnePercents.Web\bin\Antlr3.Runtime.dll
+C:\Workspaces\[Project-The-One-Percents]\TheOnePercents.Web\TheOnePercents.Web\bin\DotNetOpenAuth.AspNet.dll
+C:\Workspaces\[Project-The-One-Percents]\TheOnePercents.Web\TheOnePercents.Web\bin\DotNetOpenAuth.Core.dll
+C:\Workspaces\[Project-The-One-Percents]\TheOnePercents.Web\TheOnePercents.Web\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Workspaces\[Project-The-One-Percents]\TheOnePercents.Web\TheOnePercents.Web\bin\DotNetOpenAuth.OAuth.dll
+C:\Workspaces\[Project-The-One-Percents]\TheOnePercents.Web\TheOnePercents.Web\bin\DotNetOpenAuth.OpenId.dll
+C:\Workspaces\[Project-The-One-Percents]\TheOnePercents.Web\TheOnePercents.Web\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Workspaces\[Project-The-One-Percents]\TheOnePercents.Web\TheOnePercents.Web\bin\EntityFramework.dll
+C:\Workspaces\[Project-The-One-Percents]\TheOnePercents.Web\TheOnePercents.Web\bin\EntityFramework.SqlServer.dll
+C:\Workspaces\[Project-The-One-Percents]\TheOnePercents.Web\TheOnePercents.Web\bin\EntityFramework.SqlServerCompact.dll
+C:\Workspaces\[Project-The-One-Percents]\TheOnePercents.Web\TheOnePercents.Web\bin\Microsoft.Data.Edm.dll
+C:\Workspaces\[Project-The-One-Percents]\TheOnePercents.Web\TheOnePercents.Web\bin\Microsoft.Data.OData.dll
+C:\Workspaces\[Project-The-One-Percents]\TheOnePercents.Web\TheOnePercents.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Workspaces\[Project-The-One-Percents]\TheOnePercents.Web\TheOnePercents.Web\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Workspaces\[Project-The-One-Percents]\TheOnePercents.Web\TheOnePercents.Web\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Workspaces\[Project-The-One-Percents]\TheOnePercents.Web\TheOnePercents.Web\bin\Newtonsoft.Json.dll
+C:\Workspaces\[Project-The-One-Percents]\TheOnePercents.Web\TheOnePercents.Web\bin\System.Data.SqlServerCe.dll
+C:\Workspaces\[Project-The-One-Percents]\TheOnePercents.Web\TheOnePercents.Web\bin\System.Net.Http.Formatting.dll
+C:\Workspaces\[Project-The-One-Percents]\TheOnePercents.Web\TheOnePercents.Web\bin\System.Spatial.dll
+C:\Workspaces\[Project-The-One-Percents]\TheOnePercents.Web\TheOnePercents.Web\bin\System.Web.Helpers.dll
+C:\Workspaces\[Project-The-One-Percents]\TheOnePercents.Web\TheOnePercents.Web\bin\System.Web.Http.dll
+C:\Workspaces\[Project-The-One-Percents]\TheOnePercents.Web\TheOnePercents.Web\bin\System.Web.Http.OData.dll
+C:\Workspaces\[Project-The-One-Percents]\TheOnePercents.Web\TheOnePercents.Web\bin\System.Web.Http.WebHost.dll
+C:\Workspaces\[Project-The-One-Percents]\TheOnePercents.Web\TheOnePercents.Web\bin\System.Web.Mvc.dll
+C:\Workspaces\[Project-The-One-Percents]\TheOnePercents.Web\TheOnePercents.Web\bin\System.Web.Optimization.dll
+C:\Workspaces\[Project-The-One-Percents]\TheOnePercents.Web\TheOnePercents.Web\bin\System.Web.Razor.dll
+C:\Workspaces\[Project-The-One-Percents]\TheOnePercents.Web\TheOnePercents.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Workspaces\[Project-The-One-Percents]\TheOnePercents.Web\TheOnePercents.Web\bin\System.Web.WebPages.dll
+C:\Workspaces\[Project-The-One-Percents]\TheOnePercents.Web\TheOnePercents.Web\bin\System.Web.WebPages.Razor.dll
+C:\Workspaces\[Project-The-One-Percents]\TheOnePercents.Web\TheOnePercents.Web\bin\WebGrease.dll
+C:\Workspaces\[Project-The-One-Percents]\TheOnePercents.Web\TheOnePercents.Web\bin\WebMatrix.Data.dll
+C:\Workspaces\[Project-The-One-Percents]\TheOnePercents.Web\TheOnePercents.Web\bin\WebMatrix.WebData.dll
+C:\Workspaces\[Project-The-One-Percents]\TheOnePercents.Web\TheOnePercents.Web\bin\EntityFramework.xml
+C:\Workspaces\[Project-The-One-Percents]\TheOnePercents.Web\TheOnePercents.Web\bin\EntityFramework.SqlServer.xml
+C:\Workspaces\[Project-The-One-Percents]\TheOnePercents.Web\TheOnePercents.Web\bin\EntityFramework.SqlServerCompact.xml
+C:\Workspaces\[Project-The-One-Percents]\TheOnePercents.Web\TheOnePercents.Web\bin\Newtonsoft.Json.xml
+C:\Workspaces\[Project-The-One-Percents]\TheOnePercents.Web\TheOnePercents.Web\bin\System.Net.Http.Formatting.xml
+C:\Workspaces\[Project-The-One-Percents]\TheOnePercents.Web\TheOnePercents.Web\bin\System.Web.Helpers.xml
+C:\Workspaces\[Project-The-One-Percents]\TheOnePercents.Web\TheOnePercents.Web\bin\System.Web.Http.xml
+C:\Workspaces\[Project-The-One-Percents]\TheOnePercents.Web\TheOnePercents.Web\bin\System.Web.Http.WebHost.xml
+C:\Workspaces\[Project-The-One-Percents]\TheOnePercents.Web\TheOnePercents.Web\bin\System.Web.Mvc.xml
+C:\Workspaces\[Project-The-One-Percents]\TheOnePercents.Web\TheOnePercents.Web\bin\System.Web.Razor.xml
+C:\Workspaces\[Project-The-One-Percents]\TheOnePercents.Web\TheOnePercents.Web\bin\System.Web.WebPages.xml
+C:\Workspaces\[Project-The-One-Percents]\TheOnePercents.Web\TheOnePercents.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Workspaces\[Project-The-One-Percents]\TheOnePercents.Web\TheOnePercents.Web\bin\System.Web.WebPages.Razor.xml
+C:\Workspaces\[Project-The-One-Percents]\TheOnePercents.Web\TheOnePercents.Web\bin\WebMatrix.Data.xml
+C:\Workspaces\[Project-The-One-Percents]\TheOnePercents.Web\TheOnePercents.Web\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Workspaces\[Project-The-One-Percents]\TheOnePercents.Web\TheOnePercents.Web\bin\WebMatrix.WebData.xml
+C:\Workspaces\[Project-The-One-Percents]\TheOnePercents.Web\TheOnePercents.Web\bin\DotNetOpenAuth.AspNet.xml
+C:\Workspaces\[Project-The-One-Percents]\TheOnePercents.Web\TheOnePercents.Web\bin\DotNetOpenAuth.Core.xml
+C:\Workspaces\[Project-The-One-Percents]\TheOnePercents.Web\TheOnePercents.Web\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Workspaces\[Project-The-One-Percents]\TheOnePercents.Web\TheOnePercents.Web\bin\DotNetOpenAuth.OAuth.xml
+C:\Workspaces\[Project-The-One-Percents]\TheOnePercents.Web\TheOnePercents.Web\bin\DotNetOpenAuth.OpenId.xml
+C:\Workspaces\[Project-The-One-Percents]\TheOnePercents.Web\TheOnePercents.Web\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Workspaces\[Project-The-One-Percents]\TheOnePercents.Web\TheOnePercents.Web\bin\System.Web.Http.OData.xml
+C:\Workspaces\[Project-The-One-Percents]\TheOnePercents.Web\TheOnePercents.Web\bin\Microsoft.Data.Edm.xml
+C:\Workspaces\[Project-The-One-Percents]\TheOnePercents.Web\TheOnePercents.Web\bin\Microsoft.Data.OData.xml
+C:\Workspaces\[Project-The-One-Percents]\TheOnePercents.Web\TheOnePercents.Web\bin\System.Spatial.xml
+C:\Workspaces\[Project-The-One-Percents]\TheOnePercents.Web\TheOnePercents.Web\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Workspaces\[Project-The-One-Percents]\TheOnePercents.Web\TheOnePercents.Web\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Workspaces\[Project-The-One-Percents]\TheOnePercents.Web\TheOnePercents.Web\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Workspaces\[Project-The-One-Percents]\TheOnePercents.Web\TheOnePercents.Web\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Workspaces\[Project-The-One-Percents]\TheOnePercents.Web\TheOnePercents.Web\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Workspaces\[Project-The-One-Percents]\TheOnePercents.Web\TheOnePercents.Web\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Workspaces\[Project-The-One-Percents]\TheOnePercents.Web\TheOnePercents.Web\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Workspaces\[Project-The-One-Percents]\TheOnePercents.Web\TheOnePercents.Web\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Workspaces\[Project-The-One-Percents]\TheOnePercents.Web\TheOnePercents.Web\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Workspaces\[Project-The-One-Percents]\TheOnePercents.Web\TheOnePercents.Web\bin\de\Microsoft.Data.OData.resources.dll
+C:\Workspaces\[Project-The-One-Percents]\TheOnePercents.Web\TheOnePercents.Web\bin\es\Microsoft.Data.OData.resources.dll
+C:\Workspaces\[Project-The-One-Percents]\TheOnePercents.Web\TheOnePercents.Web\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Workspaces\[Project-The-One-Percents]\TheOnePercents.Web\TheOnePercents.Web\bin\it\Microsoft.Data.OData.resources.dll
+C:\Workspaces\[Project-The-One-Percents]\TheOnePercents.Web\TheOnePercents.Web\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Workspaces\[Project-The-One-Percents]\TheOnePercents.Web\TheOnePercents.Web\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Workspaces\[Project-The-One-Percents]\TheOnePercents.Web\TheOnePercents.Web\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Workspaces\[Project-The-One-Percents]\TheOnePercents.Web\TheOnePercents.Web\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Workspaces\[Project-The-One-Percents]\TheOnePercents.Web\TheOnePercents.Web\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Workspaces\[Project-The-One-Percents]\TheOnePercents.Web\TheOnePercents.Web\bin\de\System.Spatial.resources.dll
+C:\Workspaces\[Project-The-One-Percents]\TheOnePercents.Web\TheOnePercents.Web\bin\es\System.Spatial.resources.dll
+C:\Workspaces\[Project-The-One-Percents]\TheOnePercents.Web\TheOnePercents.Web\bin\fr\System.Spatial.resources.dll
+C:\Workspaces\[Project-The-One-Percents]\TheOnePercents.Web\TheOnePercents.Web\bin\it\System.Spatial.resources.dll
+C:\Workspaces\[Project-The-One-Percents]\TheOnePercents.Web\TheOnePercents.Web\bin\ja\System.Spatial.resources.dll
+C:\Workspaces\[Project-The-One-Percents]\TheOnePercents.Web\TheOnePercents.Web\bin\ko\System.Spatial.resources.dll
+C:\Workspaces\[Project-The-One-Percents]\TheOnePercents.Web\TheOnePercents.Web\bin\ru\System.Spatial.resources.dll
+C:\Workspaces\[Project-The-One-Percents]\TheOnePercents.Web\TheOnePercents.Web\bin\zh-Hans\System.Spatial.resources.dll
+C:\Workspaces\[Project-The-One-Percents]\TheOnePercents.Web\TheOnePercents.Web\bin\zh-Hant\System.Spatial.resources.dll
+C:\Workspaces\[Project-The-One-Percents]\TheOnePercents.Web\TheOnePercents.Web\obj\Debug\TheOnePercents.Web.dll
+C:\Workspaces\[Project-The-One-Percents]\TheOnePercents.Web\TheOnePercents.Web\obj\Debug\TheOnePercents.Web.pdb
+C:\Workspace\[TheOnePercents]\TheOnePercents.Web\bin\TheOnePercents.Web.dll
+C:\Workspace\[TheOnePercents]\TheOnePercents.Web\bin\TheOnePercents.Web.pdb
+C:\Workspace\[TheOnePercents]\TheOnePercents.Web\bin\EntityFramework.dll
+C:\Workspace\[TheOnePercents]\TheOnePercents.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Workspace\[TheOnePercents]\TheOnePercents.Web\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Workspace\[TheOnePercents]\TheOnePercents.Web\bin\System.Data.SqlServerCe.dll
+C:\Workspace\[TheOnePercents]\TheOnePercents.Web\bin\System.Web.Helpers.dll
+C:\Workspace\[TheOnePercents]\TheOnePercents.Web\bin\System.Web.Razor.dll
+C:\Workspace\[TheOnePercents]\TheOnePercents.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Workspace\[TheOnePercents]\TheOnePercents.Web\bin\System.Web.WebPages.dll
+C:\Workspace\[TheOnePercents]\TheOnePercents.Web\bin\System.Web.WebPages.Razor.dll
+C:\Workspace\[TheOnePercents]\TheOnePercents.Web\bin\WebMatrix.Data.dll
+C:\Workspace\[TheOnePercents]\TheOnePercents.Web\bin\WebMatrix.WebData.dll
+C:\Workspace\[TheOnePercents]\TheOnePercents.Web\bin\EntityFramework.xml
+C:\Workspace\[TheOnePercents]\TheOnePercents.Web\bin\Microsoft.Web.Infrastructure.xml
+C:\Workspace\[TheOnePercents]\TheOnePercents.Web\bin\System.Web.Helpers.xml
+C:\Workspace\[TheOnePercents]\TheOnePercents.Web\bin\System.Web.Razor.xml
+C:\Workspace\[TheOnePercents]\TheOnePercents.Web\bin\System.Web.WebPages.xml
+C:\Workspace\[TheOnePercents]\TheOnePercents.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Workspace\[TheOnePercents]\TheOnePercents.Web\bin\System.Web.WebPages.Razor.xml
+C:\Workspace\[TheOnePercents]\TheOnePercents.Web\bin\WebMatrix.Data.xml
+C:\Workspace\[TheOnePercents]\TheOnePercents.Web\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Workspace\[TheOnePercents]\TheOnePercents.Web\bin\WebMatrix.WebData.xml
+C:\Workspace\[TheOnePercents]\TheOnePercents.Web\obj\Debug\TheOnePercents.Web.csprojResolveAssemblyReference.cache
+C:\Workspace\[TheOnePercents]\TheOnePercents.Web\obj\Debug\TheOnePercents.Web.dll
+C:\Workspace\[TheOnePercents]\TheOnePercents.Web\obj\Debug\TheOnePercents.Web.pdb
+C:\Workspaces\[The-One-Percents]\TheOnePercents.Web\bin\TheOnePercents.Web.dll
+C:\Workspaces\[The-One-Percents]\TheOnePercents.Web\bin\TheOnePercents.Web.pdb
+C:\Workspaces\[The-One-Percents]\TheOnePercents.Web\bin\EntityFramework.dll
+C:\Workspaces\[The-One-Percents]\TheOnePercents.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Workspaces\[The-One-Percents]\TheOnePercents.Web\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Workspaces\[The-One-Percents]\TheOnePercents.Web\bin\System.Data.SqlServerCe.dll
+C:\Workspaces\[The-One-Percents]\TheOnePercents.Web\bin\System.Net.Http.Formatting.dll
+C:\Workspaces\[The-One-Percents]\TheOnePercents.Web\bin\System.Web.Helpers.dll
+C:\Workspaces\[The-One-Percents]\TheOnePercents.Web\bin\System.Web.Http.dll
+C:\Workspaces\[The-One-Percents]\TheOnePercents.Web\bin\System.Web.Http.WebHost.dll
+C:\Workspaces\[The-One-Percents]\TheOnePercents.Web\bin\System.Web.Mvc.dll
+C:\Workspaces\[The-One-Percents]\TheOnePercents.Web\bin\System.Web.Razor.dll
+C:\Workspaces\[The-One-Percents]\TheOnePercents.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Workspaces\[The-One-Percents]\TheOnePercents.Web\bin\System.Web.WebPages.dll
+C:\Workspaces\[The-One-Percents]\TheOnePercents.Web\bin\System.Web.WebPages.Razor.dll
+C:\Workspaces\[The-One-Percents]\TheOnePercents.Web\bin\WebMatrix.Data.dll
+C:\Workspaces\[The-One-Percents]\TheOnePercents.Web\bin\WebMatrix.WebData.dll
+C:\Workspaces\[The-One-Percents]\TheOnePercents.Web\bin\EntityFramework.xml
+C:\Workspaces\[The-One-Percents]\TheOnePercents.Web\bin\Microsoft.Web.Infrastructure.xml
+C:\Workspaces\[The-One-Percents]\TheOnePercents.Web\bin\System.Net.Http.Formatting.xml
+C:\Workspaces\[The-One-Percents]\TheOnePercents.Web\bin\System.Web.Helpers.xml
+C:\Workspaces\[The-One-Percents]\TheOnePercents.Web\bin\System.Web.Http.xml
+C:\Workspaces\[The-One-Percents]\TheOnePercents.Web\bin\System.Web.Http.WebHost.xml
+C:\Workspaces\[The-One-Percents]\TheOnePercents.Web\bin\System.Web.Mvc.xml
+C:\Workspaces\[The-One-Percents]\TheOnePercents.Web\bin\System.Web.Razor.xml
+C:\Workspaces\[The-One-Percents]\TheOnePercents.Web\bin\System.Web.WebPages.xml
+C:\Workspaces\[The-One-Percents]\TheOnePercents.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Workspaces\[The-One-Percents]\TheOnePercents.Web\bin\System.Web.WebPages.Razor.xml
+C:\Workspaces\[The-One-Percents]\TheOnePercents.Web\bin\WebMatrix.Data.xml
+C:\Workspaces\[The-One-Percents]\TheOnePercents.Web\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Workspaces\[The-One-Percents]\TheOnePercents.Web\bin\WebMatrix.WebData.xml
+C:\Workspaces\[The-One-Percents]\TheOnePercents.Web\obj\Debug\TheOnePercents.Web.csprojResolveAssemblyReference.cache
+C:\Workspaces\[The-One-Percents]\TheOnePercents.Web\obj\Debug\TheOnePercents.Web.dll
+C:\Workspaces\[The-One-Percents]\TheOnePercents.Web\obj\Debug\TheOnePercents.Web.pdb
+C:\Workspace\[TheOnePercents]\TheOnePercents.Web\bin\Kendo.Mvc.dll
+C:\Workspace\[TheOnePercents]\TheOnePercents.Web\bin\Kendo.Mvc.xml
+C:\Workspaces\[The-One-Percents]\TheOnePercents.Web\bin\Kendo.Mvc.dll
+C:\Workspaces\[The-One-Percents]\TheOnePercents.Web\bin\Kendo.Mvc.xml
+C:\Workspaces\[The-One-Percents]\TheOnePercents.Web\bin\TheOnePercents.Infrastructure.dll
+C:\Workspaces\[The-One-Percents]\TheOnePercents.Web\bin\TheOnePercents.Model.dll
+C:\Workspaces\[The-One-Percents]\TheOnePercents.Web\bin\TheOnePercents.Repository.dll
+C:\Workspaces\[The-One-Percents]\TheOnePercents.Web\bin\Ninject.dll
+C:\Workspaces\[The-One-Percents]\TheOnePercents.Web\bin\TheOnePercents.Domain.dll
+C:\Workspaces\[The-One-Percents]\TheOnePercents.Web\bin\SendGridMail.dll
+C:\Workspaces\[The-One-Percents]\TheOnePercents.Web\bin\TheOnePercents.Infrastructure.pdb
+C:\Workspaces\[The-One-Percents]\TheOnePercents.Web\bin\TheOnePercents.Model.pdb
+C:\Workspaces\[The-One-Percents]\TheOnePercents.Web\bin\TheOnePercents.Repository.pdb
+C:\Workspaces\[The-One-Percents]\TheOnePercents.Web\bin\Ninject.xml
+C:\Workspaces\[The-One-Percents]\TheOnePercents.Web\bin\TheOnePercents.Domain.pdb
+C:\Workspaces\[The-One-Percents]\TheOnePercents.Web\bin\Ninject.Web.Common.dll
+C:\Workspaces\[The-One-Percents]\TheOnePercents.Web\bin\Ninject.Web.Common.xml
+C:\Workspaces\[The-One-Percents]\TheOnePercents.Web\bin\TheOnePercents.Web.dll.config
+C:\Workspaces\[The-One-Percents]\TheOnePercents.Web\bin\Ninject.Web.Mvc.dll
+C:\Workspaces\[The-One-Percents]\TheOnePercents.Web\bin\WebActivatorEx.dll
+C:\Workspaces\[The-One-Percents]\TheOnePercents.Web\bin\Ninject.Web.Mvc.xml
+C:\Workspace\[TheOnePercents]\TheOnePercents.Web\bin\TheOnePercents.Web.dll.config
+C:\Workspace\[TheOnePercents]\TheOnePercents.Web\bin\Ninject.dll
+C:\Workspace\[TheOnePercents]\TheOnePercents.Web\bin\Ninject.Web.Common.dll
+C:\Workspace\[TheOnePercents]\TheOnePercents.Web\bin\Ninject.Web.Mvc.dll
+C:\Workspace\[TheOnePercents]\TheOnePercents.Web\bin\TheOnePercents.Domain.dll
+C:\Workspace\[TheOnePercents]\TheOnePercents.Web\bin\TheOnePercents.Infrastructure.dll
+C:\Workspace\[TheOnePercents]\TheOnePercents.Web\bin\TheOnePercents.Model.dll
+C:\Workspace\[TheOnePercents]\TheOnePercents.Web\bin\TheOnePercents.Repository.dll
+C:\Workspace\[TheOnePercents]\TheOnePercents.Web\bin\WebActivatorEx.dll
+C:\Workspace\[TheOnePercents]\TheOnePercents.Web\bin\SendGridMail.dll
+C:\Workspace\[TheOnePercents]\TheOnePercents.Web\bin\TheOnePercents.Domain.pdb
+C:\Workspace\[TheOnePercents]\TheOnePercents.Web\bin\TheOnePercents.Infrastructure.pdb
+C:\Workspace\[TheOnePercents]\TheOnePercents.Web\bin\TheOnePercents.Model.pdb
+C:\Workspace\[TheOnePercents]\TheOnePercents.Web\bin\TheOnePercents.Repository.pdb
+C:\Workspace\[TheOnePercents]\TheOnePercents.Web\bin\Ninject.xml
+C:\Workspace\[TheOnePercents]\TheOnePercents.Web\bin\Ninject.Web.Common.xml
+C:\Workspace\[TheOnePercents]\TheOnePercents.Web\bin\Ninject.Web.Mvc.xml
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Web\bin\TheOnePercents.Web.dll.config
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Web\bin\TheOnePercents.Web.dll
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Web\bin\TheOnePercents.Web.pdb
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Web\bin\EntityFramework.dll
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Web\bin\Kendo.Mvc.dll
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Web\bin\Microsoft.Web.Infrastructure.dll
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Web\bin\Microsoft.Web.WebPages.OAuth.dll
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Web\bin\Newtonsoft.Json.dll
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Web\bin\Ninject.dll
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Web\bin\Ninject.Web.Common.dll
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Web\bin\Ninject.Web.Mvc.dll
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Web\bin\System.Data.SqlServerCe.dll
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Web\bin\System.Web.Helpers.dll
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Web\bin\System.Web.Razor.dll
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Web\bin\System.Web.WebPages.Deployment.dll
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Web\bin\System.Web.WebPages.dll
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Web\bin\System.Web.WebPages.Razor.dll
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Web\bin\TheOnePercents.Domain.dll
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Web\bin\TheOnePercents.Infrastructure.dll
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Web\bin\TheOnePercents.Model.dll
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Web\bin\TheOnePercents.Repository.dll
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Web\bin\WebActivatorEx.dll
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Web\bin\WebMatrix.Data.dll
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Web\bin\WebMatrix.WebData.dll
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Web\bin\SendGridMail.dll
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Web\bin\TheOnePercents.Domain.pdb
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Web\bin\TheOnePercents.Infrastructure.pdb
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Web\bin\TheOnePercents.Repository.pdb
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Web\bin\TheOnePercents.Model.pdb
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Web\bin\EntityFramework.xml
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Web\bin\Kendo.Mvc.xml
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Web\bin\Ninject.xml
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Web\bin\Ninject.Web.Common.xml
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Web\bin\Ninject.Web.Mvc.xml
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Web\bin\Microsoft.Web.Infrastructure.xml
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Web\bin\System.Web.Helpers.xml
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Web\bin\System.Web.Razor.xml
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Web\bin\System.Web.WebPages.xml
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Web\bin\System.Web.WebPages.Deployment.xml
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Web\bin\System.Web.WebPages.Razor.xml
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Web\bin\WebMatrix.Data.xml
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Web\bin\Microsoft.Web.WebPages.OAuth.xml
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Web\bin\WebMatrix.WebData.xml
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Web\obj\Debug\TheOnePercents.Web.csprojResolveAssemblyReference.cache
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Web\obj\Debug\TheOnePercents.Web.dll
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Web\obj\Debug\TheOnePercents.Web.pdb
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Web\bin\Debug\TheOnePercents.Web.dll.config
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Web\bin\Debug\TheOnePercents.Web.dll
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Web\bin\Debug\TheOnePercents.Web.pdb
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Web\bin\Debug\EntityFramework.dll
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Web\bin\Debug\Kendo.Mvc.dll
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Web\bin\Debug\Microsoft.Web.Infrastructure.dll
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Web\bin\Debug\Microsoft.Web.WebPages.OAuth.dll
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Web\bin\Debug\Newtonsoft.Json.dll
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Web\bin\Debug\Ninject.dll
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Web\bin\Debug\Ninject.Web.Common.dll
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Web\bin\Debug\Ninject.Web.Mvc.dll
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Web\bin\Debug\System.Data.SqlServerCe.dll
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Web\bin\Debug\System.Web.Helpers.dll
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Web\bin\Debug\System.Web.Razor.dll
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Web\bin\Debug\System.Web.WebPages.Deployment.dll
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Web\bin\Debug\System.Web.WebPages.dll
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Web\bin\Debug\System.Web.WebPages.Razor.dll
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Web\bin\Debug\TheOnePercents.Domain.dll
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Web\bin\Debug\TheOnePercents.Infrastructure.dll
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Web\bin\Debug\TheOnePercents.Model.dll
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Web\bin\Debug\TheOnePercents.Repository.dll
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Web\bin\Debug\WebActivatorEx.dll
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Web\bin\Debug\WebMatrix.Data.dll
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Web\bin\Debug\WebMatrix.WebData.dll
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Web\bin\Debug\SendGridMail.dll
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Web\bin\Debug\TheOnePercents.Domain.pdb
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Web\bin\Debug\TheOnePercents.Infrastructure.pdb
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Web\bin\Debug\TheOnePercents.Model.pdb
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Web\bin\Debug\TheOnePercents.Repository.pdb
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Web\bin\Debug\EntityFramework.xml
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Web\bin\Debug\Kendo.Mvc.xml
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Web\bin\Debug\Ninject.xml
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Web\bin\Debug\Ninject.Web.Common.xml
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Web\bin\Debug\Ninject.Web.Mvc.xml
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Web\bin\Debug\Microsoft.Web.Infrastructure.xml
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Web\bin\Debug\System.Web.Helpers.xml
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Web\bin\Debug\System.Web.Razor.xml
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Web\bin\Debug\System.Web.WebPages.xml
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Web\bin\Debug\System.Web.WebPages.Deployment.xml
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Web\bin\Debug\System.Web.WebPages.Razor.xml
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Web\bin\Debug\WebMatrix.Data.xml
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Web\bin\Debug\Microsoft.Web.WebPages.OAuth.xml
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Web\bin\Debug\WebMatrix.WebData.xml

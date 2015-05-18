@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="TheOnePercentsModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Competition">
+    <Key>
+      <PropertyRef Name="CompetitionID" />
+    </Key>
+    <Property Name="CompetitionID" Type="Guid" Nullable="false" />
+    <Property Name="EntityID" Type="Guid" />
+    <Property Name="CompetitionName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="CompetitionDescription" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="CreateDate" Type="DateTime" Precision="7" />
+    <Property Name="CreateUser" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="UpdateDate" Type="DateTime" Precision="7" />
+    <Property Name="UpdateUser" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Entity" Relationship="TheOnePercentsModel.FK_Competition_Entity" FromRole="Competition" ToRole="Entity" />
+  </EntityType>
+  <EntityType Name="Entity">
+    <Key>
+      <PropertyRef Name="EntityID" />
+    </Key>
+    <Property Name="EntityID" Type="Guid" Nullable="false" />
+    <Property Name="EntityName" Type="String" MaxLength="128" FixedLength="false" Unicode="true" />
+    <Property Name="CreateDate" Type="DateTime" Precision="7" />
+    <Property Name="CreateUser" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="UpdateDate" Type="DateTime" Precision="7" />
+    <Property Name="UpdateUser" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Competitions" Relationship="TheOnePercentsModel.FK_Competition_Entity" FromRole="Entity" ToRole="Competition" />
+  </EntityType>
+  <EntityContainer Name="TheOnePercentsEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Competitions" EntityType="Self.Competition" />
+    <EntitySet Name="Entities" EntityType="Self.Entity" />
+    <AssociationSet Name="FK_Competition_Entity" Association="TheOnePercentsModel.FK_Competition_Entity">
+      <End Role="Entity" EntitySet="Entities" />
+      <End Role="Competition" EntitySet="Competitions" />
+    </AssociationSet>
+  </EntityContainer>
+  <Association Name="FK_Competition_Entity">
+    <End Type="TheOnePercentsModel.Entity" Role="Entity" Multiplicity="0..1" />
+    <End Type="TheOnePercentsModel.Competition" Role="Competition" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Entity">
+        <PropertyRef Name="EntityID" />
+      </Principal>
+      <Dependent Role="Competition">
+        <PropertyRef Name="EntityID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="b4b9a5d0ba2743f1b936108aa2989616" Name="Diagram1">
+        <EntityTypeShape EntityType="theonepercentersModel.Company" Width="1.5" PointX="0.75" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="theonepercentersModel.Competition" Width="1.5" PointX="3" PointY="1.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="theonepercentersModel.Contact" Width="1.5" PointX="5.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="theonepercentersModel.Membership" Width="1.5" PointX="3" PointY="4.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="theonepercentersModel.PrincipalUser" Width="1.5" PointX="5.75" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="theonepercentersModel.Setting" Width="1.5" PointX="7.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="theonepercentersModel.UserCompetition" Width="1.5" PointX="7.75" PointY="4.75" IsExpanded="true" />
+        <AssociationConnector Association="theonepercentersModel.FK_Competitions_0" ManuallyRouted="false" />
+        <AssociationConnector Association="theonepercentersModel.FK_Memberships_0" ManuallyRouted="false" />
+        <EntityTypeShape EntityType="theonepercentersModel.Task" Width="1.5" PointX="9.95253370234395" PointY="16.473526291769709" />
+        <EntityTypeShape EntityType="theonepercentersModel.sysdiagram" Width="1.5" PointX="10.375" PointY="0.75" />
+        <EntityTypeShape EntityType="theonepercentersModel.UserProfile" Width="1.5" PointX="7.625" PointY="8.875" />
+        <EntityTypeShape EntityType="theonepercentersModel.webpages_Membership" Width="1.5" PointX="10.375" PointY="3.75" />
+        <EntityTypeShape EntityType="theonepercentersModel.webpages_OAuthMembership" Width="1.5" PointX="10.375" PointY="7.75" />
+        <EntityTypeShape EntityType="theonepercentersModel.webpages_Roles" Width="1.5" PointX="5.375" PointY="8.875" />
+        <EntityTypeShape EntityType="theonepercentersModel.Log4Net_Error" Width="1.5" PointX="10.375" PointY="10.75" />
+        <AssociationConnector Association="theonepercentersModel.webpages_UsersInRoles" />
+        <EntityTypeShape EntityType="theonepercentersModel.UserTask" Width="1.5" PointX="12.625" PointY="4.25" />
+        <AssociationConnector Association="theonepercentersModel.FK_UserTasks_webpages_Membership" />
+        <AssociationConnector Association="theonepercentersModel.FK_Tasks_Companies" />
+        <AssociationConnector Association="theonepercentersModel.FK_Tasks_Competitions" />
+        <AssociationConnector Association="theonepercentersModel.FK_UserTasks_Tasks" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

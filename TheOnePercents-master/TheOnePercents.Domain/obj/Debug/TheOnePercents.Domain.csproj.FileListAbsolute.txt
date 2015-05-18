@@ -1,0 +1,38 @@
+C:\Workspace\[TheOnePercents]\TheOnePercents.Domain\obj\Debug\TheOnePercents.Domain.csprojResolveAssemblyReference.cache
+C:\Workspace\[TheOnePercents]\TheOnePercents.Domain\bin\Debug\TheOnePercents.Domain.dll
+C:\Workspace\[TheOnePercents]\TheOnePercents.Domain\bin\Debug\TheOnePercents.Domain.pdb
+C:\Workspace\[TheOnePercents]\TheOnePercents.Domain\bin\Debug\EntityFramework.dll
+C:\Workspace\[TheOnePercents]\TheOnePercents.Domain\bin\Debug\SendGridMail.dll
+C:\Workspace\[TheOnePercents]\TheOnePercents.Domain\bin\Debug\TheOnePercents.Model.dll
+C:\Workspace\[TheOnePercents]\TheOnePercents.Domain\bin\Debug\TheOnePercents.Repository.dll
+C:\Workspace\[TheOnePercents]\TheOnePercents.Domain\bin\Debug\TheOnePercents.Model.pdb
+C:\Workspace\[TheOnePercents]\TheOnePercents.Domain\bin\Debug\TheOnePercents.Repository.pdb
+C:\Workspace\[TheOnePercents]\TheOnePercents.Domain\bin\Debug\EntityFramework.xml
+C:\Workspace\[TheOnePercents]\TheOnePercents.Domain\obj\Debug\TheOnePercents.Domain.dll
+C:\Workspace\[TheOnePercents]\TheOnePercents.Domain\obj\Debug\TheOnePercents.Domain.pdb
+C:\Workspaces\[The-One-Percents]\TheOnePercents.Domain\obj\Debug\TheOnePercents.Domain.csprojResolveAssemblyReference.cache
+C:\Workspaces\[The-One-Percents]\TheOnePercents.Domain\bin\Debug\TheOnePercents.Domain.dll
+C:\Workspaces\[The-One-Percents]\TheOnePercents.Domain\bin\Debug\TheOnePercents.Domain.pdb
+C:\Workspaces\[The-One-Percents]\TheOnePercents.Domain\bin\Debug\EntityFramework.dll
+C:\Workspaces\[The-One-Percents]\TheOnePercents.Domain\bin\Debug\SendGridMail.dll
+C:\Workspaces\[The-One-Percents]\TheOnePercents.Domain\bin\Debug\TheOnePercents.Model.dll
+C:\Workspaces\[The-One-Percents]\TheOnePercents.Domain\bin\Debug\TheOnePercents.Repository.dll
+C:\Workspaces\[The-One-Percents]\TheOnePercents.Domain\bin\Debug\TheOnePercents.Model.pdb
+C:\Workspaces\[The-One-Percents]\TheOnePercents.Domain\bin\Debug\TheOnePercents.Repository.pdb
+C:\Workspaces\[The-One-Percents]\TheOnePercents.Domain\bin\Debug\EntityFramework.xml
+C:\Workspaces\[The-One-Percents]\TheOnePercents.Domain\obj\Debug\TheOnePercents.Domain.dll
+C:\Workspaces\[The-One-Percents]\TheOnePercents.Domain\obj\Debug\TheOnePercents.Domain.pdb
+C:\Workspace\[TheOnePercents]\TheOnePercents.Domain\bin\Debug\System.Web.Mvc.dll
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Domain\bin\Debug\TheOnePercents.Domain.dll
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Domain\bin\Debug\TheOnePercents.Domain.pdb
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Domain\bin\Debug\EntityFramework.dll
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Domain\bin\Debug\SendGridMail.dll
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Domain\bin\Debug\System.Web.Mvc.dll
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Domain\bin\Debug\TheOnePercents.Model.dll
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Domain\bin\Debug\TheOnePercents.Repository.dll
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Domain\bin\Debug\TheOnePercents.Model.pdb
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Domain\bin\Debug\TheOnePercents.Repository.pdb
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Domain\bin\Debug\EntityFramework.xml
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Domain\obj\Debug\TheOnePercents.Domain.csprojResolveAssemblyReference.cache
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Domain\obj\Debug\TheOnePercents.Domain.dll
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Domain\obj\Debug\TheOnePercents.Domain.pdb

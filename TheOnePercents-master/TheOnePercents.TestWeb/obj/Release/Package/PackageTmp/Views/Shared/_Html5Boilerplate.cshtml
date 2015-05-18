@@ -1,0 +1,220 @@
+﻿<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title></title>
+        <meta name="description" content="Main Page">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+        <script src="~/Content/js/jquery-1.10.2.min.js"></script>
+        <link rel="stylesheet" href="~/Content/css/normalize.css">
+        <link rel="stylesheet" href="~/Content/css/main1.css">
+        <script src="~/Content/js/vendor/modernizr-2.6.2.min.js"></script>
+        @*<script src="~/Content/js/jquery-1.10.2.js"></script>*@
+
+        <!-- Bootstrap -->
+        <link href="~/Content/themes/itsBeta/HTML/assets/css/bootstrap.min.css" rel="stylesheet" media="screen">
+        <!-- Font Awesome -->
+        @*<link rel="stylesheet" href="~/Content/themes/itsBeta/HTML/assets/css/font-awesome.min.css">*@
+        <!-- Lato Google Font - For Theme -->
+        <link href='http://fonts.googleapis.com/css?family=Lato:400,700' rel='stylesheet' type='text/css'>
+        <!-- Default Theme Style -->
+        @*<link href="~/Content/themes/itsBeta/HTML/assets/css/theme-light.css" rel="stylesheet" media="screen" id="skin">*@
+        <!-- Theme Color  options - alizarin.css, belize-hole.css, carrot.css, turquoise.css, wisteria.css-->
+        @*<link href="~/Content/themes/itsBeta/HTML/assets/css/theme-alizarin.css" rel="stylesheet" media="screen" id="swatches">*@
+        <!-- Theme color Options Viewer - For Demo Purpose only -->
+        @*<link href="~/Content/themes/itsBeta/HTML/assets/css/style-switcher.css" rel="stylesheet">*@
+        <!-- Pacifico Google Font - For Demo Purpose only -->
+        <link href='http://fonts.googleapis.com/css?family=Pacifico' rel='stylesheet' type='text/css'>
+        <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+        <!--[if lt IE 9]>
+            <script src="assets/js/html5shiv.js"></script>
+            <script src="assets/js/respond.min.js"></script>
+        <![endif]-->
+        
+        <link href="~/Content/homepage/css/webkit_stylesheet.css" rel="stylesheet" />
+        <link href="~/Content/homepage/css/custom_css.css" rel="stylesheet" />
+        <link href="~/Content/homepage/css/font-awesome.min.css" rel="stylesheet" />
+        <link href="~/Content/homepage/css/js_composer.css" rel="stylesheet" />
+        <link href="~/Content/homepage/css/responsive.min.css" rel="stylesheet" />
+        <link href="~/Content/homepage/css/style_dynamic.css" rel="stylesheet" />
+        <link href="~/Content/homepage/css/style_dynamic_responsive.css" rel="stylesheet" />
+        <link href="~/Content/homepage/css/stylesheet.min.css" rel="stylesheet" />
+        <link href="~/Content/homepage/css/prettyPhoto.css" rel="stylesheet" />
+
+        @RenderSection("styles", required: false)
+        
+
+    </head>
+    <body>
+        <!--[if lt IE 7]>
+            <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+
+        @*<div class="navbar navbar-inverse navbar-fixed-top">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    @Html.ActionLink("Obstacle Course Training", "Index", "Home", null, new { @class = "navbar-brand" })
+                </div>
+                <div class="navbar-collapse collapse">
+                    <ul class="nav navbar-nav">
+                        <li>@Html.ActionLink("Home", "Index", "Home")</li>
+                        <li>@Html.ActionLink("About", "About", "Home")</li>
+                        <li>@Html.ActionLink("Contact", "Contact", "Home")</li>
+                    </ul>
+                    @Html.Partial("_LoginPartial")
+                </div>
+            </div>
+        </div>*@
+
+        <header class=" scroll_header_top_area  stick page_header">
+            <div class="header_inner clearfix">
+
+                <form role="search" id="searchform" action="http://obstacle-course-training.azurewebsites.net/" class="qode_search_form" method="get">
+                    <div class="container">
+                        <div class="container_inner clearfix">
+
+                            <i class="fa fa-search"></i>
+                            <input type="text" placeholder="Search" name="s" class="qode_search_field" autocomplete="off" />
+                            <input type="submit" value="Search" />
+
+                            <div class="qode_search_close">
+                                <a href="#">
+                                    <i class="fa fa-times"></i>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </form>
+
+                <div class="header_top_bottom_holder">
+                    <div class="header_bottom clearfix" style=''>
+                        <div class="container">
+                            <div class="container_inner clearfix">
+                                <div class="header_inner_left">
+                                    <div class="mobile_menu_button"><span><i class="fa fa-bars"></i></span></div>
+                                    <div class="logo_wrapper">
+                                        <div class="q_logo"><a href="http://obstacle-course-training.azurewebsites.net/"><img class="normal" src="http://obstacle-course-training.azurewebsites.net/wp-content/uploads/2015/03/OCT-Logo-Small-v2-Alpha.png" alt="Logo" /><img class="light" src="http://obstacle-course-training.azurewebsites.net/wp-content/uploads/2015/04/OCT-Logo-Small-v4-Alpha.png" alt="Logo" /><img class="dark" src="http://obstacle-course-training.azurewebsites.net/wp-content/uploads/2015/04/OCT-Logo-Small-v4-Alpha.png" alt="Logo" /><img class="sticky" src="http://obstacle-course-training.azurewebsites.net/wp-content/themes/bridge%202/img/logo_black.png" alt="Logo" /></a></div>
+                                    </div>
+                                </div>
+                                <div class="header_inner_right">
+                                    @*@Html.Partial("_LoginPartial")*@
+                                    <div class="side_menu_button_wrapper right">
+                                        <div class="side_menu_button">
+                                            <a class="search_button" href="javascript:void(0)">
+                                                <i class="fa fa-search"></i>
+                                            </a>
+                                            <a class="side_menu_button_link normal" href="javascript:void(0)">
+                                                <i class="fa fa-bars"></i>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <nav class="main_menu drop_down right">
+                                    <ul id="menu-top-menu" class="">
+                                        <li id="nav-menu-item-19151" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-14391 current_page_item  narrow"><a href="http://obstacle-course-training.azurewebsites.net/" class=" current "><i class="menu_icon fa blank"></i><span>HOME</span><span class="plus"></span></a></li>
+                                        @if (User.Identity.IsAuthenticated)
+                                        { 
+                                        <li id="nav-menu-item-19601" class="menu-item menu-item-type-post_type menu-item-object-page  narrow"><a href='@Url.Action("Index", "Dashboard")' class=""><i class="menu_icon fa blank"></i><span>Dashboard</span><span class="plus"></span></a></li>
+                                        <li id="nav-menu-item-19661" class="menu-item menu-item-type-post_type menu-item-object-page  narrow"><a href='@Url.Action("Index", "Video")' class=""><i class="menu_icon fa blank"></i><span>Videos</span><span class="plus"></span></a></li>
+                                            }
+                                        <li id="nav-menu-item-19181" class="menu-item menu-item-type-post_type menu-item-object-page  narrow">@Html.Partial("_LoginPartial")</li>
+                                    </ul>
+                                </nav>
+                                <nav class="mobile_menu">
+                                    <ul id="menu-top-menu-1" class="">
+                                        <li id="mobile-menu-item-19151" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-14391 current_page_item "><a href="http://obstacle-course-training.azurewebsites.net/" class=" current "><span>HOME</span></a><span class="mobile_arrow"><i class="fa fa-angle-right"></i><i class="fa fa-angle-down"></i></span></li>
+
+                                        <li id="mobile-menu-item-19601" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="http://obstacle-course-training.azurewebsites.net/?page_id=13396" class=""><span>About Us</span></a><span class="mobile_arrow"><i class="fa fa-angle-right"></i><i class="fa fa-angle-down"></i></span></li>
+                                        <li id="mobile-menu-item-19661" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="http://obstacle-course-training.azurewebsites.net/?page_id=13880" class=""><span>The Game</span></a><span class="mobile_arrow"><i class="fa fa-angle-right"></i><i class="fa fa-angle-down"></i></span></li>
+
+                                        <li id="mobile-menu-item-19181" class="menu-item menu-item-type-post_type menu-item-object-page ">@Html.Partial("_LoginPartial")<span class="mobile_arrow"><i class="fa fa-angle-right"></i><i class="fa fa-angle-down"></i></span></li>
+                                    </ul>
+                                </nav>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </header>
+
+        <div id="body">
+            @RenderSection("featured", required: false)
+            <section class="content-wrapper main-content clear-fix">
+                @RenderBody()
+            </section>
+        </div>
+
+        @*<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+        <script>window.jQuery || document.write("<script src='~/Content/js/jquery-1.10.2.min.js'></script>')</script>*@
+        
+        <script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+
+        <script src="~/Content/js/plugins.js"></script>
+        <script src="~/Content/js/main.js"></script>
+        <script src="~/Content/js/jquery.fittext.js"></script>
+        <script>
+            jQuery("#responsive_headline-l").fitText(1.3, { minFontSize: '27px', maxFontSize: '60px' });
+            jQuery("#responsive_headline-xl").fitText(1.3, { minFontSize: '27px', maxFontSize: '60px' });
+        </script>
+        <!-- Smooth scrolling -->
+        @*<script>
+            $(function () {
+                $('a[href*=#]:not([href=#])').click(function () {
+                    if (location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '') && location.hostname == this.hostname) {
+                        var target = $(this.hash);
+                        target = target.length ? target : $('[name=' + this.hash.slice(1) + ']');
+                        if (target.length) {
+                            $('html,body').animate({
+                                scrollTop: target.offset().top
+                            }, 1000);
+                            return false;
+                        }
+                    }
+                });
+            });
+        </script>*@
+        <!-- include Cycle2 -->
+        <script src="~/Content/js/jquery.cycle2.js"></script>
+        <script src="~/Content/js/jquery.cycle2.scrollVert.js"></script>
+        <script src="~/Content/js/jquery.cycle2.center.js"></script>
+
+        <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
+        <script>
+            (function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
+            function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;
+            e=o.createElement(i);r=o.getElementsByTagName(i)[0];
+            e.src='//www.google-analytics.com/analytics.js';
+            r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));
+            ga('create','UA-XXXXX-X');ga('send','pageview');
+        </script>
+
+        <script src="~/Content/homepage/js/isotope.pkgd.min.js"></script>
+        <script src="~/Content/homepage/js/jquery.prettyPhoto.js"></script>
+        <script src="~/Content/homepage/js/js_composer_front.js"></script>
+        <script src="~/Content/homepage/js/bridge%202/js/ajax.min.js"></script>
+        <script src="~/Content/homepage/js/bridge%202/js/custom_js.js"></script>
+        <script src="~/Content/homepage/js/bridge%202/js/default.min.js"></script>
+        <script src="~/Content/homepage/js/bridge%202/js/default_dynamic.js"></script>
+        <script src="~/Content/homepage/js/bridge%202/js/jquery.carouFredSel-6.2.1.js"></script>
+        <script src="~/Content/homepage/js/bridge%202/js/jquery.fullPage.min.js"></script>
+        <script src="~/Content/homepage/js/bridge%202/js/jquery.mousewheel.min.js"></script>
+        <script src="~/Content/homepage/js/bridge%202/js/jquery.touchSwipe.min.js"></script>
+        <script src="~/Content/homepage/js/bridge%202/js/lemmon-slider.js"></script>
+        <script src="~/Content/homepage/js/bridge%202/js/plugins.js"></script>
+        <script src="~/Content/homepage/js/bridge%202/js/qode-like.js"></script>
+
+        @RenderSection("scripts", required: false)
+    </body>
+</html>

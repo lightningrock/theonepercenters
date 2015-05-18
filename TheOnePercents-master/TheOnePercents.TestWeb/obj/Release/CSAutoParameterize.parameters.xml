@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="NewConnection-Web.config Connection String" description="NewConnection Connection String used in web.config by the application to access the database." defaultValue="Data Source=(LocalDB)\v11.0;Initial Catalog=theonepercenters;AttachDbFilename='|DataDirectory|\theonepercents.mdf';Integrated Security=True;Connect Timeout=30" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="F:\\projects\\Plastic\ Workspaces\\TheOnePercents-master\\TheOnePercents\.TestWeb\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='NewConnection']/@connectionString" />
+  </parameter>
+  <parameter name="NewDefaultConnection-Web.config Connection String" description="NewDefaultConnection Connection String used in web.config by the application to access the database." defaultValue="Data Source=NOS\SQLEXPRESS;Initial Catalog=newdb;Integrated Security=True" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="F:\\projects\\Plastic\ Workspaces\\TheOnePercents-master\\TheOnePercents\.TestWeb\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='NewDefaultConnection']/@connectionString" />
+  </parameter>
+  <parameter name="DefaultConnection-Web.config Connection String" description="DefaultConnection Connection String used in web.config by the application to access the database." defaultValue="Data Source=NOS\SQLEXPRESS;Initial Catalog=theonepercenters;Integrated Security=True" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="F:\\projects\\Plastic\ Workspaces\\TheOnePercents-master\\TheOnePercents\.TestWeb\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DefaultConnection']/@connectionString" />
+  </parameter>
+  <parameter name="theonepercentersEntities-Web.config Connection String" description="theonepercentersEntities Connection String used in web.config by the application to access the database." defaultValue="Data Source=tcp:sjswjue48i.database.windows.net,1433;     Initial Catalog=theonepercenterstest;Integrated Security=False;     User ID=theonepercentersadmin@sjswjue48i;     Password=tOpS07112014;Trusted_Connection=False;Encrypt=True;Connection Timeout=30;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="F:\\projects\\Plastic\ Workspaces\\TheOnePercents-master\\TheOnePercents\.TestWeb\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='theonepercentersEntities']/@connectionString" />
+  </parameter>
+</parameters>

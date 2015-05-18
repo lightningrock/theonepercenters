@@ -1,0 +1,23 @@
+C:\Workspace\[TheOnePercents]\TheOnePercents.Repository\bin\Release\TheOnePercents.Repository.dll.config
+C:\Workspace\[TheOnePercents]\TheOnePercents.Repository\bin\Release\TheOnePercents.Repository.dll
+C:\Workspace\[TheOnePercents]\TheOnePercents.Repository\bin\Release\TheOnePercents.Repository.pdb
+C:\Workspace\[TheOnePercents]\TheOnePercents.Repository\bin\Release\EntityFramework.BulkInsert.dll
+C:\Workspace\[TheOnePercents]\TheOnePercents.Repository\bin\Release\EntityFramework.dll
+C:\Workspace\[TheOnePercents]\TheOnePercents.Repository\bin\Release\TheOnePercents.Model.dll
+C:\Workspace\[TheOnePercents]\TheOnePercents.Repository\bin\Release\TheOnePercents.Model.pdb
+C:\Workspace\[TheOnePercents]\TheOnePercents.Repository\bin\Release\EntityFramework.xml
+C:\Workspace\[TheOnePercents]\TheOnePercents.Repository\bin\Release\EntityFramework.BulkInsert.pdb
+C:\Workspace\[TheOnePercents]\TheOnePercents.Repository\obj\Release\TheOnePercents.Repository.csprojResolveAssemblyReference.cache
+C:\Workspace\[TheOnePercents]\TheOnePercents.Repository\obj\Release\TheOnePercents.Repository.dll
+C:\Workspace\[TheOnePercents]\TheOnePercents.Repository\obj\Release\TheOnePercents.Repository.pdb
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Repository\bin\Release\TheOnePercents.Repository.dll.config
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Repository\bin\Release\TheOnePercents.Repository.dll
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Repository\bin\Release\TheOnePercents.Repository.pdb
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Repository\bin\Release\EntityFramework.dll
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Repository\bin\Release\TheOnePercents.Model.dll
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Repository\bin\Release\TheOnePercents.Model.pdb
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Repository\bin\Release\EntityFramework.xml
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Repository\bin\Release\EntityFramework.BulkInsert.pdb
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Repository\obj\Release\TheOnePercents.Repository.csprojResolveAssemblyReference.cache
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Repository\obj\Release\TheOnePercents.Repository.dll
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Repository\obj\Release\TheOnePercents.Repository.pdb

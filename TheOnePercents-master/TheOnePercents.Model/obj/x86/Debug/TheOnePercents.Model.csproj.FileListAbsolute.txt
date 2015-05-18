@@ -1,0 +1,9 @@
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Model\bin\x86\Debug\TheOnePercents.Model.dll.config
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Model\bin\x86\Debug\TheOnePercents.Model.dll
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Model\bin\x86\Debug\TheOnePercents.Model.pdb
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Model\bin\x86\Debug\EntityFramework.dll
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Model\bin\x86\Debug\System.Data.SqlServerCe.dll
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Model\bin\x86\Debug\EntityFramework.xml
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Model\obj\x86\Debug\TheOnePercents.Model.dll
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Model\obj\x86\Debug\TheOnePercents.Model.pdb
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Model\obj\x86\Debug\TheOnePercents.Model.csprojResolveAssemblyReference.cache

@@ -1,0 +1,18 @@
+C:\Workspace\[TheOnePercents]\TheOnePercents.Model\bin\Release\TheOnePercents.Model.dll.config
+C:\Workspace\[TheOnePercents]\TheOnePercents.Model\bin\Release\TheOnePercents.Model.dll
+C:\Workspace\[TheOnePercents]\TheOnePercents.Model\bin\Release\TheOnePercents.Model.pdb
+C:\Workspace\[TheOnePercents]\TheOnePercents.Model\bin\Release\EntityFramework.dll
+C:\Workspace\[TheOnePercents]\TheOnePercents.Model\bin\Release\System.Data.SqlServerCe.dll
+C:\Workspace\[TheOnePercents]\TheOnePercents.Model\bin\Release\EntityFramework.xml
+C:\Workspace\[TheOnePercents]\TheOnePercents.Model\obj\Release\TheOnePercents.Model.csprojResolveAssemblyReference.cache
+C:\Workspace\[TheOnePercents]\TheOnePercents.Model\obj\Release\TheOnePercents.Model.dll
+C:\Workspace\[TheOnePercents]\TheOnePercents.Model\obj\Release\TheOnePercents.Model.pdb
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Model\bin\Release\TheOnePercents.Model.dll.config
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Model\bin\Release\TheOnePercents.Model.dll
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Model\bin\Release\TheOnePercents.Model.pdb
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Model\bin\Release\EntityFramework.dll
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Model\bin\Release\System.Data.SqlServerCe.dll
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Model\bin\Release\EntityFramework.xml
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Model\obj\Release\TheOnePercents.Model.csprojResolveAssemblyReference.cache
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Model\obj\Release\TheOnePercents.Model.dll
+F:\projects\Plastic Workspaces\TheOnePercents-master\TheOnePercents.Model\obj\Release\TheOnePercents.Model.pdb
